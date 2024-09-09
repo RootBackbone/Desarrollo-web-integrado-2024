@@ -23,3 +23,10 @@ En este primer AVANCE la página tienes las siguientes características:
 FUNCIONALIDAD:
 Creación de usuarios y acceso a la página principal donde al momento se puede visualizar un trailer de 
 la película Dead Pool 3.
+
+Pasos para visualizar el contenido:
+
+Primero se debe levantar el servidor web Windfly.
+Luego, colocar la ruta del servidor y el archivo de Jakarta, en este caso (http://127.0.0.1:8080/jakartaee-hello-world/login.jsp)
+Si no tiene usuario, hay una opción para registrar usuario.
+Despues de crear el usuario ya puede acceder a la página web.

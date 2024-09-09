@@ -19,7 +19,7 @@ En este primer AVANCE la página tienes las siguientes características:
 * Desarrollo de la página web index.jsp
 * Conexión al servidor WEB Windfly.
 
-.......................................................................
+*****************************************************************
 FUNCIONALIDAD:
 Creación de usuarios y acceso a la página principal donde al momento se puede visualizar un trailer de 
 la película Dead Pool 3.
